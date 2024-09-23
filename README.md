@@ -55,6 +55,10 @@ This application proposes to:
 - **Dart**: Programming language for the app’s logic.
 - **Firebase**: Backend for user authentication and data storage.
 
+Demo Video
+Check out the demo of the current features in action here.
+https://shorturl.at/oFfx2
+
 ## Installation
 1. Clone the repository:
    ```bash
